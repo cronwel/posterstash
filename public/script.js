@@ -11,7 +11,7 @@ new Vue({
     cart: []
   },
   methods: {
-    addItem: function() {
+    addItem: index => {
       this.total += 9.99;
     }
   }

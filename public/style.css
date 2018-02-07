@@ -14,7 +14,7 @@ input:focus {
 }
 
 .btn {
-  background-color: #f08080;
+  background-color: #21d4fd;
   border-radius: 2px;
   color: white;
   /*user-select: none;*/
@@ -88,7 +88,7 @@ h1 {
   font-size: 2.5rem;
   padding: 2rem 0 1rem;
   margin: 0;
-  color: #ffafaf;
+  color: #21d4fd;
   text-shadow: black 2px 1px 1px;
 }
 
